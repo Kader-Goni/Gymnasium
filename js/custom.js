@@ -8,4 +8,8 @@ $(document).ready(function(){
         autoplay: true,
     });
 
+
+    // video Popup
+    $('.venobox').venobox();
+
 });
